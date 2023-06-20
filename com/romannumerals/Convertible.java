@@ -1,5 +1,5 @@
 package com.romannumerals;
 
-public interface Convertable {
+public interface Convertible {
     void convert();
 }
